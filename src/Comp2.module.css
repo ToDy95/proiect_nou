@@ -1,0 +1,24 @@
+.container {
+  border: 5px black solid;
+  padding: 100px;
+  border-radius: 50px;
+  background: #f3f3fb;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+.Title {
+  color: #000;
+  font-family: Sen;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.content {
+  display: flex;
+
+  gap: 20px;
+  flex-wrap: wrap;
+}
